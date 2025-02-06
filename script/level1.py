@@ -14,7 +14,7 @@ model = tf.keras.Sequential([
 model.compile(optimizer='sgd', loss='mean_squared_error')
 
 # Train the model
-model.fit(X, y, epochs=1000, verbose=0)
+model.fit(X, y, epochs=10000, verbose=0)
 
 # Predict the next number (for input 6)
 prediction = model.predict([6])
