@@ -10,7 +10,7 @@ from sklearn.preprocessing import MinMaxScaler
 # Step 1: Load Sample Sales Data
 data = {
     "Month": pd.date_range(start="2020-01-01", periods=36, freq="M"),
-    "Sales": [200, 220, 250, 280, 300, 320, 400, 450, 500, 550, 600, 700,
+    "Sales": [100, 220, 250, 280, 300, 320, 400, 450, 500, 550, 600, 700,
               150, 170, 190, 210, 230, 250, 300, 350, 380, 400, 420, 500,
               220, 240, 260, 280, 300, 320, 350, 380, 400, 420, 440, 500]
 }
