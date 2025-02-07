@@ -24,5 +24,5 @@ This repository provides a **step-by-step learning guide** for sequence predicti
 ## 🛠 Installation & Requirements
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/LSTM-Sequence-Prediction.git
+git clone [https://github.com/Suraj-Sedai/LSTM-Deep-Learning]
 cd LSTM-Sequence-Prediction
