@@ -9,7 +9,7 @@ This repository provides a **structured learning guide** for **LSTM-based sequen
 
 ## **📌 Project Structure**  
 ```
-PREDICTION_ML
+LSTM-Deep-Learning
 │── script/
 │   ├── Basic/
 │   │   ├── level1.py               # Basic Linear Prediction (No LSTM)
